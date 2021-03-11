@@ -264,9 +264,9 @@ API resources
 * [Draft Order](https://github.com/tiendanube/api-docs/blob/master/resources/draft_order.md)
 
 
-Help us make it better
+Por Errores
 ----------------------
 
-Please tell us how we can make the API better. If you have a specific feature request or if you found a bug, please use GitHub issues. Feel free to fork these docs and send a pull request with improvements.
+Si tiene una función nueva o encontró un error, use GitHub issues. Siéntase libre de bifurcar  y enviar una solicitud de extracción con mejoras.
 
-To talk with us about the API, feel free to write to <mailto:api@tiendanube.com>.
+O sino, para hablar con nosotros sobre la API, no dude en escribirnos a mailto: api-php@todopago.com. 
